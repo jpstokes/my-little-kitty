@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+}
+
+li.cut-lawn {
+  color: #003464;
+}
+
+li[rake-leave] {
+  color: green;
+}
